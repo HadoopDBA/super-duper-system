@@ -4,6 +4,6 @@ This just a test
 
 # This is main heading
 
-# This is small heding
+## This is small heding
 
 Thanks for reading
